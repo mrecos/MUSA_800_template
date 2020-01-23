@@ -1,6 +1,6 @@
 # MUSA 800 Project Template
 
-# Project Name:
+# Project Name: Class Demo
 
 
 # Project Team:
